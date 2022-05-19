@@ -1,16 +1,16 @@
 {
-  "author": "@TenKBay",
-  "siteUrl": "https://tenk-dao.github.io/frontend-starter",
+  "author": "@near_fsc",
+  "siteUrl": "https://tenk-dao.github.io/friendlyseacreatures",
   "contractName": "v2.tenk.testnet",
-  "image": "tenk-logo.png",
+  "image": "FSC_Banner.png",
   "social": [
     {
-      "href": "https://discord.com/invite/UY9Xf2k",
+      "href": "https://discord.gg/WKfV3DUVs3",
       "img":  "discord.svg",
       "alt": "Discord"
     },
     {
-      "href": "https://twitter.com/TenKBay",
+      "href": "https://twitter.com/near_fsc",
       "img":  "twitter.svg",
       "alt": "Twitter"
     }

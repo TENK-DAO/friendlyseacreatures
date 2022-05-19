@@ -1,9 +1,9 @@
 {
   "viewIn": "View in English",
   "langPicker": "English",
-  "title": "Cool NFT Project",
-  "description": "This is the minting page for Cool NFT Project",
-  "calendarEvent": "Go Mint an NFT!",
+  "title": "Friendly Sea Creatures",
+  "description": "Get your NFT now to join the family that donates 25% to charitable causes. We will be the only place you need to visit to learn what's going on in the NEAR NFT space!",
+  "calendarEvent": "Go Mint a Friendly Turtle!",
   "connectWallet": "Login with NEAR",
   "signOut": "Sign Out",
   "new": "New!",
@@ -14,37 +14,33 @@
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
   "hero": {
-    "video": "3d_toys_playground.mp4",
-    "title": "NFTs drop at SALE_START!",
-    "body": "Tagline goes here.",
+    "image": "hero.png",
+    "title": "NFTs drop at PRESALE_START!",
+    "body": "Become a friendly sea creature!",
     "remaining": "REMAINING_COUNT / INITIAL_COUNT left",
     "cta": "Add to Calendar",
-    "action": "ADD_TO_CALENDAR(SALE_START)",
+    "action": "ADD_TO_CALENDAR(PRESALE_START)",
     "saleClosed": {
-      "ps": "Want early access? Sign in.",
-      "signedIn": {
-        "ps": "Pre-mint start: PRESALE_START\n\nJoin the whitelist! [Join our Discord](https://discord.com/invite/UY9Xf2k) and request an invite."
-      },
+      "ps": "Member-only mint start: PRESALE_START\n\nWant access? [Join our Discord](https://discord.gg/WKfV3DUVs3) and request an invite to our **bluelist** 🌊",
       "vip": {
         "title": "Welcome, CURRENT_USER!",
-        "ps": "Pre-mint start: PRESALE_START",
+        "ps": "Mint start: PRESALE_START",
         "action": "ADD_TO_CALENDAR(PRESALE_START)"
       }
     },
     "presale": {
-      "ps": "Pre-mint started!\n\nGet in on it! [Join our Discord](https://discord.com/invite/UY9Xf2k) and request an invite.",
+      "ps": "Minting started!\n\nGet in on it! [Join our Discord](https://discord.com/invite/UY9Xf2k) and request an invite to our **bluelist** 🌊",
       "vip": {
-        "title": "Pre-mint started!",
-        "body": "Public minting starts at SALE_START",
-        "ps": "Your remaining pre-mint allowance: MINT_LIMIT",
+        "title": "Minting started!",
+        "ps": "Your remaining allowance: MINT_LIMIT",
         "setNumber": "Number to mint",
         "cta": "Mint for MINT_PRICE",
         "action": "MINT"
       }
     },
     "saleOpen": {
-      "title": "Minting has begun!",
-      "ps": "",
+      "title": "Minting started!",
+      "ps": "Your remaining allowance: MINT_LIMIT",
       "setNumber": "Number to mint",
       "cta": "Mint for MINT_PRICE",
       "action": "MINT",
@@ -62,9 +58,8 @@
   },
   "extraSections": [
     {
-      "className": "this-class-is-set-in-i18n-files",
-      "text": "# Introducing Cool NFT Project\n\nThis is a longer description of the project. About a paragraph long. Some [filler text](https://placehodler.shapelabs.co/) to demonstrate: Token standard surrendered some burned mnemonic phrase until some wallet because blockchain detected many pre-mine. It based on many automated token generation event, and when Tether formed some trustless in the FUD, Dogecoin slept on lots of anti-money laundering of many stale block!\n\nSolidity limited lots of reinvested distributed denial of service attack! ICO specialises in lots of lightning fast private chain since Zilliqa surrendered few reinvested cryptocurrency, however, because someone limited few provably fiat until the vanity address, Augur stuck many burned pre-mine. They sharded many technical analysis, or NFT specialises in the FOMO in few wash trade.",
-      "image": "example.png"
+      "text": "# Introducing Friendly Sea Creatures\n\nWe share NEAR's visions and build on them. It is important to us that this project revolves around being open and accessible to anyone who wants to be a part of it. As a strong group we wanna make an environment that is cooperative rather than competitive—within and outside of the Friendly Sea Creatures. So that we can make the best of all the possibilities NEAR is offering.\n\nWe will be the only source of information you need to stay up to date with everything going on in the NEAR NFT space. Our website NEAR Ocean will provide you with all relevant notifications to be on time for everything you want.",
+      "image": "Friendly_Turtle.png"
     }
   ]
 }
