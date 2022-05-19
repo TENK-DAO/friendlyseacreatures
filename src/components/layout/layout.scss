@@ -1,7 +1,8 @@
 @import "./a11y.css";
 @import "./atcb.css";
 @import "../../../config/styles.scss";
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+@import url('https://use.typekit.net/ljd2uja.css');
 
 $white: white !default;
 $black: black !default;
@@ -19,7 +20,8 @@ $accent: adjust-color($accent, $hue: 90deg) !default;
   }
 
   /* Font Family */
-  --sans: Montserrat, sans-serif;
+  --heading: "Freude", sans-serif;
+  --sans: "Noto Sans", sans-serif;
   --monospace: "Source Code Pro", monospace;
 
   /* Font Weights */
@@ -123,6 +125,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: var(--heading);
   font-weight: var(--fw-bold);
   margin: 0;
   line-height: var(--lh-headings);

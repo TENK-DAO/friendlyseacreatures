@@ -39,6 +39,7 @@
 }
 
 .button {
+  font-family: var(--heading);
   font-size: var(--spacing-l);
   font-weight: var(--fw-black);
 }
