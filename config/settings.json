@@ -1,7 +1,7 @@
 {
   "author": "@near_fsc",
-  "siteUrl": "https://tenk-dao.github.io/friendlyseacreatures",
-  "contractName": "turtles.tenk.testnet",
+  "siteUrl": "https://fsc.tenk.dev/",
+  "contractName": "friendlyturtles.nearocean.near",
   "image": "FSC_Banner.png",
   "social": [
     {
