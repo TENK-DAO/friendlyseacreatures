@@ -81,7 +81,7 @@ const Landing: React.FC<PageProps<{}, PageContext>> = ({ location, pageContext: 
                   const El = linkTo ? 'a' : 'div'
                   const props = linkTo && { href: linkTo, target: '_blank' }
                   return (
-                    <El key={j} {...props}>
+                    <El key={j} className={'grid-container'} {...props}>
                       {image && (
                         <div className="image">
                           <Image src={image} alt="" />

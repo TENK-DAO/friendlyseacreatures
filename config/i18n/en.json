@@ -14,7 +14,7 @@
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
   "hero": {
-    "image": "hero.png",
+    "image": "turtle-animation.gif",
     "title": "NFTs drop at PRESALE_START!",
     "body": "Become a friendly sea creature!",
     "remaining": "REMAINING_COUNT / INITIAL_COUNT left",
@@ -58,8 +58,37 @@
   },
   "extraSections": [
     {
+      "className": "intro",
       "text": "# Introducing Friendly Sea Creatures\n\nWe share NEAR's visions and build on them. It is important to us that this project revolves around being open and accessible to anyone who wants to be a part of it. As a strong group we wanna make an environment that is cooperative rather than competitive—within and outside of the Friendly Sea Creatures. So that we can make the best of all the possibilities NEAR is offering.\n\nWe will be the only source of information you need to stay up to date with everything going on in the NEAR NFT space. Our website NEAR Ocean will provide you with all relevant notifications to be on time for everything you want.",
       "image": "Friendly_Turtle.png"
+    },
+    {
+      "className": "schedule",
+      "text": "# Post Mint Schedule\n\n### Rebrand to NEAR Ocean\n\nNEAR Ocean will be a comprehensive news platform for the NEAR NFT Ecosystem. Find all your desired information about the space in one place.\n\n### NEAR News Bot\n\n📈 Tracking Price Changes\n\n💰 Giveaways\n\n💬 Twitter & Discord Spaces\n\n🏦 New Mints"
+    },
+    {
+      "className": "achievements",
+      "text": "# Achievements & Partnerships",
+      "blocks": [
+        {
+          "image": "NEAR-1.png",
+          "text": "### $10K NEAR Foundation Grant"
+        },
+        {
+          "image": "NEAR-2.png",
+          "text": "### $50K NEAR Foundation Grant"
+        }
+      ]
+    },
+    {
+      "className": "collabs",
+      "text": " ",
+      "blocks": [
+        {
+          "image": "collabs.png",
+          "text": "### Industry Collabs"
+        }
+      ]
     }
   ]
 }
