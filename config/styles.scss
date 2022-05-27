@@ -34,12 +34,14 @@ $secondary: rgb(123, 215, 227);
 }
 
 .achievements h3,
-.schedule h3 {
+.schedule h3,
+.collabs h3 {
   font-family: cy, sans-serif !important;
   font-size: 1.5rem;
 }
 
 .achievements .grid-container,
+.collabs .grid-container,
 .schedule .grid-container {
   padding: var(--spacing-xl);
   text-align: center;
@@ -49,7 +51,8 @@ $secondary: rgb(123, 215, 227);
     -5px -5px 10px rgb(91, 91, 91), inset 0px 0px 2px rgba(255, 255, 255, 0.2);
 }
 
-.achievements .image {
+.achievements .image,
+.collabs .image {
   width: 80%;
   margin: 0 auto;
 }
